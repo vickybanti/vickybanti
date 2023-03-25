@@ -1,5 +1,12 @@
 - 👋 Hi, I’m victor Olamuyiwa 
-- 👀 I’m interested in software development in HTML, CSS, JavaScript, PHP, Python, Flask, React js
+- 👀 I’m a software developer,developing mobile apps with the following languages
+      HTML, 
+      CSS,
+      JavaScript, 
+      PHP, 
+      Python, 
+      Flask, 
+      React js
 - 💞️ I’m actively searching for a remote job
 - 📫 You can reach me through my email on olamuyiwavictor55@gmail.com
 
