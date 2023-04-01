@@ -7,7 +7,7 @@
       Python, 
       Flask, 
       React js
-- 💞️ I’m actively searching for a remote job
+- 💞️ I love learning new technologies and impacting the world with it.
 - 📫 You can reach me through my email on olamuyiwavictor55@gmail.com
 
 <!---
